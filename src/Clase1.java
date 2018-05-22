@@ -5,6 +5,15 @@ public class Clase1
 	
 	private int variable1;
 	private int variable2;
+	private int variablex;
+	
+	// Constructor
+	
+	public Clase1(int var1, int var2)
+	{
+		var1 = variable1;
+		var2 = variable2;
+	}
 	
 	// Getters & Setters
 	
